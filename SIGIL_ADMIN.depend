@@ -1,0 +1,89 @@
+# depslib dependency file v1.0
+1594857464 source:c:\users\rafa\desktop\proyecto\sigil_admin\funmain.c
+	"FunMain.h"
+
+1594681290 c:\users\rafa\desktop\proyecto\sigil_admin\funmain.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"TDA/Mapa.h"
+	"MENU&CSV/CSV.h"
+	"Producto.h"
+
+1588416842 c:\users\rafa\desktop\proyecto\sigil_admin\tda\mapa.h
+
+1588416842 c:\users\rafa\desktop\proyecto\sigil_admin\tda\lista.h
+	"Nodo.h"
+
+1590255291 c:\users\rafa\desktop\proyecto\sigil_admin\tda\nodo.h
+
+1590702008 c:\users\rafa\desktop\proyecto\sigil_admin\menu&csv\csv.h
+
+1594672010 c:\users\rafa\desktop\proyecto\sigil_admin\producto.h
+	<stdbool.h>
+
+1593942810 source:c:\users\rafa\desktop\proyecto\sigil_admin\i_sesion.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<conio.h>
+	"I_Sesion.h"
+	"TDA/Mapa.h"
+	"MENU&CSV/CSV.h"
+	"MENU&CSV/Menu.h"
+
+1592504234 c:\users\rafa\desktop\proyecto\sigil_admin\i_sesion.h
+	<stdbool.h>
+
+1590260204 c:\users\rafa\desktop\proyecto\sigil_admin\menu&csv\menu.h
+
+1594859106 source:c:\users\rafa\desktop\proyecto\sigil_admin\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"I_Sesion.h"
+	"Producto.h"
+	"FunMain.h"
+	"MENU&CSV/Menu.h"
+	"MENU&CSV/CSV.h"
+	"TDA/Mapa.h"
+
+1590702010 source:c:\users\rafa\desktop\proyecto\sigil_admin\menu&csv\csv.c
+	<stdio.h>
+	<stdlib.h>
+	"CSV.h"
+
+1588416842 source:c:\users\rafa\desktop\proyecto\sigil_admin\menu&csv\menu.c
+	<stdio.h>
+	<conio.h>
+	"Menu.h"
+
+1594672041 source:c:\users\rafa\desktop\proyecto\sigil_admin\producto.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"Producto.h"
+
+1588474126 source:c:\users\rafa\desktop\proyecto\sigil_admin\tda\lista.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Nodo.h"
+	"Lista.h"
+
+1594671651 source:c:\users\rafa\desktop\proyecto\sigil_admin\tda\mapa.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"Mapa.h"
+
+1590255302 source:c:\users\rafa\desktop\proyecto\sigil_admin\tda\nodo.c
+	<stdio.h>
+	<stdlib.h>
+	"Nodo.h"
+
